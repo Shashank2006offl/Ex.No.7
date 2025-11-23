@@ -145,6 +145,11 @@ The quality and usefulness of responses increased with more detailed and context
 
 ---
 
+# Output (Example Response by LLM):
+<img width="1358" height="379" alt="image" src="https://github.com/user-attachments/assets/08d493f0-89e2-4a0b-8006-a6e4ae17ba33" />
+
+---
+
 # Sample Interaction Summary
 
 **User:** “Explain backpropagation simply.”  
